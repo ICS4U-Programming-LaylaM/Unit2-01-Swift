@@ -54,7 +54,7 @@ do {
             print("Error with 'output.txt'")
         }
 
-        print("Marks added to 'output.txt'")
+        print("Reversed strings added to 'output.txt'")
     }
 } catch {
     // Error message if nonexistent file is inputted
